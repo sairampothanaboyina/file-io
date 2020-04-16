@@ -1,0 +1,3 @@
+org\io\core\util\Config.class
+org\io\core\exception\RepositoryException.class
+org\io\core\exception\ReadWriteException.class
