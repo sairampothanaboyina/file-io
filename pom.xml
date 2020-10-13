@@ -22,7 +22,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
-    <junit.version>3.8.1</junit.version>
+    <junit.version>4.13.1</junit.version>
     <slf4j-api.version>1.7.13</slf4j-api.version>
     <slf4j-log4j12.version>${slf4j-api.version}</slf4j-log4j12.version>
     <commons-lang3>3.8.1</commons-lang3>
